@@ -21,3 +21,4 @@ Project Overview:
     - Appropriate time usage
     - Polished presentation
  
+- Projects Submitted by 11:59 on November 15 will receive 1 % point of extra credit applied to final grade.
