@@ -1,24 +1,31 @@
-The data storytelling project is worth 20 percent of the course grade. 
+## Project Overview
 
-The motivation for this assignment is the famous, at least in statistical circles, Hans Rosling. The late Rosling’s Ted Talk titled “The best stats you’ve ever seen,” ([YouTube link](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)) has been viewed over 14 million times. Furthermore, Rosling’s video titled “200 countries, 200 years, 4 minutes,” which has over 9 million views, does a masterful job of distilling raw data into an entertaining and informative four minute video. 
+STAT 408 has a course project worth 20% of the final grade. The project will be completed individually or as a group of two using a dataset of the student's choosing to create a Shiny dashboard / app.
 
-In statistics and the data science fields, employers are starting to look for digital portfolios that contain evidence of computer code as well as data visualization and analysis. Success on this assignment will be a professional, data storytelling video that will serve as the capstone for this course and that students can share with future employers. 
 
-For this assignment, create a short video (between 4 and 5 minutes) to motivate 
+### Evaluation
+A full rubric will be provided later, but the evaluation will be based on:
 
-Project Overview:
-  - Compelling introduction / motivation
-    - Provide overview of dataset
-    - What research question(s) are you exploring visually?
-  - Meaningful data visualization
-    - Figures clearly "tell a story"
-    - Clear summary of each data point
-    - Appropriate Titles, Captions, Labels
-    - (Bonus:) Helpful annotation, animation (`gganimate`), interaction (R Shiny), and/or dashboard (`shinydashboard`)
-  - Conclusion
-    - Summarize how data visualize answered/addressed research question
-  - Video Basics
-    - Appropriate time usage
-    - Polished presentation
- 
-- Projects Submitted by 11:59 on November 15 will receive 1 % point of extra credit applied to final grade.
+- Intermediate Dashboard Submission: 10%
+- Oral App Demonstration: 30%
+- Shiny Dashboard Features and Functionality: 50%
+- Peer Feedback: 10%
+
+### Checkpoints
+
+- September 17: Choose dataset & preliminary data visualization
+- November 5: Intermediate Dashboard Submission
+- November 12: Intermediate Submission Feedback Due
+- November 19 & 21th: In class App Demonstrations
+- November 25: Dashboard Submission
+
+
+### Intermediate Dashboard Submission
+Students will submit a functional app and source code for peer review. 
+
+#### Peer Feedback
+Throughout the course of the project you will be asked to evaluate classmates coding and presentation. Thoughtful, and respectful, comments will be expected as part of this component.
+
+#### In class App Demonstrations
+Demonstrations of the Shiny app will occur the week of November 17 and November 19. Each student will introduce the dataset and research questions they were hoping to address. Then the features and functionality of the app will be displayed.
+
