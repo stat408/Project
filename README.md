@@ -28,7 +28,7 @@ More detailed evaluation rubrics are provided below:
 Students will submit a functional app and source code for peer review. For full credit (10% of the project), the submission must include code that:
 
 1. Creates a functioning shiny app (no errors)
-2. Code should be correctly formatted, clearly commented ,and easy to follow
+2. Code should be correctly formatted, clearly commented, and easy to follow
 3. Uses the `shinydashboard` app with at least 3 tabs
 4. The first tab should be a landing page that describes your dataset and presents the questions / hypotheses you'll be exploring
 5. The second / third tabs should include dynamic figures controlled by at least one widget.
@@ -39,6 +39,14 @@ Students will submit a functional app and source code for peer review. For full 
 Throughout the course of the project you will be asked to evaluate classmates coding and presentation. Timely, thoughtful, and respectful comments will be expected as part of this component and will warrant full credit. There will be two places feedback is provided:
 
 1. The week of Nov 5 through Nov 12, the intermediate submission will be reviewed as part of a code review.
+
+- Be nice (it's a work in progress), but be helpful!
+- Verify that points 1 through 5 are satisfied.
+- Summarize at least one thing you like about the dashboard.
+- Summarize at least one thing that could be improved with the dashboard.
+- Include your three paragraphs as commented code at the start of the R shiny app
+
+
 
 
 2. The in class app demonstrations
